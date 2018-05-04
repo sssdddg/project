@@ -10,5 +10,6 @@
 <%="test2.jsp" %>
 <%="test github" %>
 <%="test2 local" %>
+<%="test2 world" %>
 </body>
 </html>
