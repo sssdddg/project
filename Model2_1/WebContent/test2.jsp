@@ -8,6 +8,7 @@
 </head>
 <body>
 <%="test2.jsp" %>
+<%="test github" %>
 <%="test2 local" %>
 </body>
 </html>
